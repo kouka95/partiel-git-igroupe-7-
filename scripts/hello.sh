@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-
-echo "Hello World"
+echo "bonjour !"
+echo "Bienvenue dans le TP Git"
